@@ -23,7 +23,7 @@ Estoy abierta a colaborar en proyectos donde pueda aportar y seguir aprendiendo.
 
 ## Contact me / Contacto
 📧 acasaviajes@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/alexandra-rojas-castro/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/alexandra-rojas-castro-/)
 
 ## Fun fact / Curiosidades
 I can laugh and cry all at once – old school vibes included! 😄
