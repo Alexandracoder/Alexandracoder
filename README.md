@@ -1,4 +1,3 @@
-
 👋 Hi, I'm Alexandra
 
 I'm a passionate backend developer in training, eager to grow my skills in Java, DevOps, Docker, Databases, Jenkins, and more.
