@@ -38,14 +38,10 @@ I can laugh and cry all at once – old school vibes included! 😄
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Alexandracoder&show_icons=false&theme=transparent&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandracoder&layout=compact&theme=transparent&hide_title=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandracoder&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexandracoder&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandracoder&layout=compact&theme=radical)
+### 📬 Contact
+[✉️ Email](mailto:acasaviajes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alexandra-rojas-castro-/)
 
-
-## 📬 Contact me!
-[![Email](https://img.shields.io/badge/Email-acasaviajes@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:acasaviajes@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-rojas-castro-/)
