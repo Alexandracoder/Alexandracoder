@@ -46,8 +46,9 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandracoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alexandra's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandracoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Alexandracoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Alexandracoder&show_icons=true&theme=tokyonight&hide_border=true" alt="Alexandra's GitHub stats" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alexandracoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
